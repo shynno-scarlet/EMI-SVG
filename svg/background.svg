@@ -1,0 +1,11 @@
+<!-- Hintergrund SVG -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3840" height="2160">
+    <defs>
+        <linearGradient id="gradBG" x1="0%" x2="0%" y1="100%" y2="0%">
+            <stop offset="0%" stop-color="rgb(66,117,168)" stop-opacity="1" />
+            <stop offset="100%" stop-color="rgb(64,41,99)" stop-opacity="1" />
+        </linearGradient>
+    </defs>
+
+    <rect id="bg" width="3840" height="2160" fill="url(#gradBG)" />
+</svg>

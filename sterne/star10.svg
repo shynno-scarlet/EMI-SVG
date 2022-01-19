@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100">
+        <path fill="rgb(255, 210, 20)" fill-rule="evenodd" d="M 0,50 L42.392,47.528 L9.549,20.611 L45.298,43.528 L34.549,2.4470000000000027 L50,42 L65.451,2.4470000000000027 L54.702,43.528 L90.451,20.611 L57.608,47.528 L100,50 L57.608,52.472 L90.451,79.389 L54.702,56.472 L65.451,97.553 L50,58 L34.549,97.553 L45.298,56.472 L9.549,79.389 L42.392,52.472 Z">
+            <animateTransform attributeName="transform" type="rotate" dur="5s" repeatCount="indefinite" values="0 50 50;360 50 50"/>
+        </path>
+    </svg>
