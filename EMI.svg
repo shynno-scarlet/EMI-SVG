@@ -1,10 +1,18 @@
 <!-- Komplette SVG Datei -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3840" height="2160">
     <image xlink:href="svg/background.svg" x="0" y="0" />
-    <image xmlns:xlink="svg/hills.svg" x="0" y="0" />
+
     <image xlink:href="sterne/star30.svg" x="500" y="100" width="350" height="350" />
     <image xlink:href="sterne/star15.svg" x="1200" y="350" width="150" height="150" />
     <image xlink:href="sterne/star5.svg" x="1050" y="-200" transform="scale(1,-1)" />
 
-    <image xlink:href="svg/weihnachtsmann.svg" x="250" y="400" />
+    <image xlink:href="svg/ps-gen/tree.svg" x="200" y="380" />
+    <image xlink:href="svg/ps-gen/tree.svg" x="460" y="400" />
+    <image xlink:href="svg/ps-gen/tree.svg" x="610" y="390" />
+
+    <image xlink:href="svg/hills.svg" x="0" y="0" />
+
+    <image xlink:href="svg/ps-gen/deer.svg" x="-7440" y="1985" transform="scale(-0.5,0.5)" />
+
+    <image xlink:href="svg/weihnachtsmann.svg" x="1350" y="400" />
 </svg>
