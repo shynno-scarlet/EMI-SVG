@@ -5,6 +5,14 @@
     <image xlink:href="sterne/star30.svg" x="500" y="100" width="350" height="350" />
     <image xlink:href="sterne/star15.svg" x="1200" y="350" width="150" height="150" />
     <image xlink:href="sterne/star5.svg" x="1050" y="-200" transform="scale(1,-1)" />
+    <image xlink:href="sterne/star18.svg" x="3400" y="-740" width="150" height="150" transform="scale(1,-1)" />
+    <image xlink:href="sterne/star10.svg" x="250" y="410" width="80" height="80" />
+    <image xlink:href="sterne/star15.svg" x="140" y="-160" transform="scale(1,-1)" />
+    <image xlink:href="sterne/star8.svg" x="1640" y="380" width="250" height="250" />
+    <image xlink:href="sterne/star8.svg" x="2200" y="-420" width="380" height="380" transform="scale(1,-1)" />
+    <image xlink:href="sterne/star18.svg" x="1930" y="120" />
+    <image xlink:href="sterne/star5.svg" x="2650" y="350" width="300" height="300" />
+    <image xlink:href="sterne/star15.svg" x="3180" y="-290" width="180" height="180" transform="scale(1,-1)" />
 
     <image xlink:href="svg/ps-gen/tree.svg" x="200" y="380" />
     <image xlink:href="svg/ps-gen/tree.svg" x="460" y="400" />
